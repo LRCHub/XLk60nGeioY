@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Brightest Melody",
+  "base_artist": "Aqours",
+  "createdAt": "2026-03-10T07:29:14.390070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brightest Melody",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/01_Brightest_Melody_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brightest Melody",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/02_Brightest_Melody_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brightest Melody - 桜内梨子 Solo Ver.",
+      "artist": "桜内梨子 (CV.逢田梨香子) from Aqours",
+      "has_synced": true,
+      "path": "select/03_Brightest_Melody_-_桜内梨子_Solo_Ver._桜内梨子_(CV.逢田梨香子)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brightest Melody (桜内梨子 Solo Ver.)",
+      "artist": "桜内梨子(CV.逢田梨香子)",
+      "has_synced": true,
+      "path": "select/04_Brightest_Melody_(桜内梨子_Solo_Ver.)_桜内梨子(CV.逢田梨香子).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brightest Melody - 高海千歌 Solo Ver.",
+      "artist": "高海千歌 (CV.伊波杏樹) from Aqours",
+      "has_synced": true,
+      "path": "select/05_Brightest_Melody_-_高海千歌_Solo_Ver._高海千歌_(CV.伊波杏樹)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brightest Melody (高海千歌 Solo Ver.)",
+      "artist": "高海千歌(CV.伊波杏樹)",
+      "has_synced": true,
+      "path": "select/06_Brightest_Melody_(高海千歌_Solo_Ver.)_高海千歌(CV.伊波杏樹).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brightest Melody",
+      "artist": "黒澤ルビィ (CV.降幡 愛)",
+      "has_synced": true,
+      "path": "select/07_Brightest_Melody_黒澤ルビィ_(CV.降幡_愛).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brightest Melody (黒澤ルビィ Solo Ver.)",
+      "artist": "黒澤ルビィ(CV.降幡愛)",
+      "has_synced": true,
+      "path": "select/08_Brightest_Melody_(黒澤ルビィ_Solo_Ver.)_黒澤ルビィ(CV.降幡愛).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brightest Melody",
+      "artist": "黒澤ダイヤ (CV.小宮有紗)",
+      "has_synced": false,
+      "path": "select/09_Brightest_Melody_黒澤ダイヤ_(CV.小宮有紗).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brightest Melody (黒澤ダイヤ Solo Ver.)",
+      "artist": "黒澤ダイヤ(CV.小宮有紗)",
+      "has_synced": false,
+      "path": "select/10_Brightest_Melody_(黒澤ダイヤ_Solo_Ver.)_黒澤ダイヤ(CV.小宮有紗).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brightest Melody - 【劇場版挿入歌 (MOVIEサイズ)】",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/11_Brightest_Melody_-_【劇場版挿入歌_(MOVIEサイズ)】_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brightest Melody 【劇場版挿入歌(MOVIEサイズ)】",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/12_Brightest_Melody_【劇場版挿入歌(MOVIEサイズ)】_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brightest Melody (Off Vocal)",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/13_Brightest_Melody_(Off_Vocal)_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Brightest Melody - 劇場版挿入歌 (MOVIEサイズ)",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/14_Brightest_Melody_-_劇場版挿入歌_(MOVIEサイズ)_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Brightest Melody",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/15_Brightest_Melody_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Brightest Melody 【劇場版挿入歌(MOVIEサイズ)】",
+      "artist": "加藤達也",
+      "has_synced": true,
+      "path": "select/16_Brightest_Melody_【劇場版挿入歌(MOVIEサイズ)】_加藤達也.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Brightest Melody",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/17_Brightest_Melody_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Brightest Melody",
+      "artist": "Saint Aqours Snow",
+      "has_synced": true,
+      "path": "select/18_Brightest_Melody_Saint_Aqours_Snow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brightest Melody",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/pl_01_Brightest_Melody_Aqours.txt"
+    }
+  ]
+}
